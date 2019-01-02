@@ -1,0 +1,2 @@
+# better
+test betting contract
