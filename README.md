@@ -1,2 +1,2 @@
 # better
-test betting contract
+Smart Contract testing
